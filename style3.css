@@ -1,0 +1,89 @@
+#adjustbg {
+    background-color: rgb(244, 246, 249);
+}
+
+#adjust1 {
+    padding-left: 200px; 
+    margin-top: 50px;  
+}
+
+#adjust2 {
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    width: 350px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 130px;
+    margin-top: 30px;
+}
+
+#adjust3 {
+    border: 2px solid none;
+    width: 300px;
+    height: 23px;
+    font-size: 12px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#adjust3a {
+    border: 2px solid none;
+    width: 130px;
+    height: 19px;   
+}
+
+#adjust3b {
+    border: 2px solid none;
+    width: 113px;
+    height: 19px;   
+}
+
+#but1 {
+    color: white;
+    background-color: rgb(0, 95, 178);
+    border-color: rgb(0, 95, 178);
+}
+
+#adjust4 {
+    border: 2px solid none;
+    width: 220px;
+    height: 60px;
+    font-size: 12px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-left: 190px;
+}
+
+#adjust4a {
+    border: 2px solid none;
+    width: 100px;
+    height: 30px;  
+    margin-top: 10px; 
+}
+
+#adjust4b {
+    border: 2px solid none;
+    width: 115px;
+    height: 50px;   
+}
+
+#but2 {
+    color: rgb(0, 95, 178); 
+    background-color: white;
+    font-size: 14px;
+    width: 110px;
+    height: 45px;
+}
+
+/* #but2:hover {    
+    background-color;   
+} */
+
+#adjust5 {
+    font-size: 14px;
+}
+
+#adjust6 {
+    font-size: 13px;
+}

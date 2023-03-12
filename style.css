@@ -1,0 +1,677 @@
+.zo {   
+    background-color: white;
+    width: 1366px;
+    height: 98px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;          
+}
+
+/* This header .zo1 setting */
+.zo1 {        
+    width: 747px;
+    height: 75px;
+    display: flex;
+    flex-flow: row wrap; 
+    padding-left: 30px; 
+    padding-top: 18px; 
+    justify-content: space-between;   
+}
+
+#zo1a {    
+    width: 80px;
+    height: 51px;    
+}
+
+#zo1b {    
+    width: 75px;
+    height: 50px;
+    margin-left: 3px;    
+}
+
+#zo1b:hover, #zo1c:hover, #zo1d:hover, #zo1e:hover, #zo1f:hover, #zo1g:hover {
+    color: rgb(75, 150, 221);
+}
+
+#zo1b, #zo1c, #zo1d, #zo1e, #zo1f, #zo1g {
+    color: rgb(3, 45, 96); 
+    font-size: 14.5px;
+    padding-top: 12px;
+}
+
+#zo1c {   
+    width: 78px;
+    height: 50px;    
+}
+
+#zo1d {   
+    width: 73px;
+    height: 50px;
+}
+
+#zo1e {   
+    width: 71px;
+    height: 50px;
+}
+
+#zo1f {   
+    width: 78px;
+    height: 50px;
+}
+
+#zo1g {   
+    width: 79px;
+    height: 50px;
+}
+
+/* This is header .zo2 setting */
+.zo2 {    
+    width: 490px;
+    height: 75px;
+    display: flex;
+    flex-flow: row wrap;   
+    padding-top: 16px;
+}
+
+#zo2a {    
+    width: 120px;
+    height: 50px;
+    text-align: center;    
+}
+
+#zo2aa {
+    color: rgb(3, 45, 96);      
+}
+
+#zo2b {    
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    padding-top: 4px;    
+}
+
+#zo2b:hover {
+    cursor: pointer;
+    background-color: rgb(234, 245, 254);
+}
+
+#zo2c {       
+    width: 38px;
+    height: 40px;
+    border-radius: 100%;
+    padding-top: 5px;
+}
+
+#zo2c:hover {
+    cursor: pointer;
+    background-color: rgb(234, 245, 254);
+}
+
+#zo2d {    
+    width: 90px;
+    height: 45px;    
+    display: flex;
+    border-radius: 50px;
+    color: rgb(3, 45, 96);
+    padding-top: 4px;
+}
+
+#zo2d:hover {
+    cursor: pointer;
+    background-color: rgb(234, 245, 254);
+}
+
+#zo2dd {    
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;    
+}
+
+#zo2ddd {    
+    width: 2px;
+    height: 30px; 
+    font-size: 15px; 
+    color: rgb(39, 24, 24);
+    border-color: rgb(234, 245, 254);
+    padding-top: 6px;    
+}
+
+#zo2e {       
+    width: 140px;
+    height: 48px;
+    background-color: rgb(46, 132, 74);
+    color: white;
+}
+
+#zo2e:hover {
+    background-color: rgb(28, 51, 38);    
+}
+
+/* This section one setting */
+
+#ch {
+    padding-top: 115px;
+    padding-left: 42px;
+}
+
+#che {
+    font-size: 48px; 
+    line-height: 47px; 
+    color: rgb(3, 45, 96);                                                 
+}
+
+#che1 {
+    font-family: 'Maipo Sans', sans-serif;                                                
+}
+
+#che1b {
+    font-size: 21px; 
+    line-height: 17px;
+    color: rgb(39, 24, 24);                                              
+}
+
+#che1c {   
+    color: rgb(3, 45, 96);                                              
+}
+
+#che1c:hover {
+    text-decoration: underline;
+    color: rgb(11, 123, 204);
+}
+
+#che2 {
+    width: 175px;
+    height: 58px;
+    padding-top: 15px;        
+}
+
+#che2:hover {
+    background-color: rgb(3, 45, 96);
+    border-color: rgb(3, 45, 96);
+    display: tag ;
+}
+
+#che2a {
+    width: 173px;
+    height: 58px; 
+    border-color: rgb(56, 128, 196);
+    color: rgb(56, 128, 196);
+    padding-top: 15px;    
+    margin-left: 24px;
+}
+
+#che2a:hover {
+    background-color: rgb(234, 245, 254);
+    border-color: rgb(3, 45, 96);
+    color: rgb(3, 45, 96);
+}
+
+/* This is section two setting */
+
+.thzo {
+   
+    
+    width: 1366px;
+    height: 185px;
+    color: rgb(3, 45, 96);
+    padding-top: 80px;
+    text-align: center;
+}
+
+.thzo1 {
+    
+    width: 1366px;
+    height: 455px;     
+    padding-left: 40px;
+    display: flex;
+    flex-flow: row wrap;
+    gap: 30px;
+}
+
+#thzo1a {
+    color: rgb(3, 45, 96);
+    text-decoration: none;
+    padding-left: 19px;       
+    font-size: 21px;   
+}
+
+#thzo1a:hover {
+    color: rgb(11, 123, 204);
+}
+
+#thzo1aa {
+    color: rgb(3, 45, 96);
+    padding-left: 19px;
+}
+
+/* This is section three setting */
+
+.thwo {    
+    width: 1366px;
+    height: 210px;
+    color: rgb(3, 45, 96);
+    padding-top: 70px;
+    text-align: center;
+}
+
+.thzo2 {
+    width: 1366px;
+    height: 590px;     
+    padding-left: 40px;
+    display: flex;  
+    flex-flow: row wrap;  
+    text-align: center;
+    gap: 15px;
+}
+
+#thzo2a {
+    color: rgb(3, 45, 96);           
+    font-size: 17px;
+    text-decoration: none;     
+}
+
+#thzo2aaa {
+    font-size: 14px;
+}
+
+#thzo2aa {
+    color: rgb(3, 45, 96);
+    font-size: 15px;   
+}
+
+#thzo2aa:hover {
+    color: rgb(11, 123, 204);
+}
+
+/* This is section four setting */
+
+.thxo {    
+    width: 1366px;
+    height: 120px;
+    color: rgb(3, 45, 96);
+    padding-top: 20px;
+    text-align: center;
+}
+
+.thxo1 {   
+    width: 1366px;
+    height: 460px;     
+    padding-left: 40px;
+    display: flex;  
+    flex-flow: row wrap;     
+    gap: 15px;
+}
+
+#thxo2a {
+    color: rgb(3, 45, 96);           
+    font-size: 21px;
+    text-decoration: none;
+    padding-left: 19px;     
+}
+
+#thxo2aaa {
+    font-size: 16px;
+    padding-left: 19px;
+}
+
+#thxo2aa {
+    color: rgb(3, 45, 96);
+    font-size: 16px; 
+    padding-left: 19px;  
+}
+
+#thxo2aa:hover, #thxo2a:hover {
+    color: rgb(11, 123, 204);
+}
+ 
+/* This is section five with background image */
+
+.thyo {
+    background-image: url(images/background\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;   
+    width: 1366px;
+    height: 300px;
+    padding-top: 60px;   
+    padding-left: 500px;
+}
+
+/* This is section six */
+
+.thto {    
+    width: 1366px;
+    height: 300px;
+    color: rgb(3, 45, 96);
+    padding-top: 20px;
+    text-align: center;    
+}
+
+.thto1 {
+    width: 1366px;
+    height: 150px;     
+    padding-top: 30px;
+    padding-left: 140px;
+    display: flex;  
+    flex-flow: row wrap;     
+    gap: 15px;
+}
+
+#thto1a {
+    font-size: 20px;
+    color: rgb(39, 24, 24); 
+}
+
+#thto1b {
+    width: 213px;
+    height: 55px; 
+    border-color: rgb(56, 128, 196);
+    color: rgb(56, 128, 196);
+    padding-top: 15px;    
+    margin-left: 24px;
+}
+
+#thto1b:hover {
+    background-color: rgb(234, 245, 254);
+    border-color: rgb(3, 45, 96);
+    color: rgb(3, 45, 96);
+}
+
+#thto2 {
+    width: 200px;
+    height: 100px;
+    border-radius: 5px; 
+    padding-left: 20px;
+}
+
+/* This is section seven */
+.zozo {    
+    width: 1366px;
+    height: 200px;
+    color: rgb(3, 45, 96);
+    padding-top: 40px;
+    text-align: center;
+}
+
+.zozo1 {   
+    width: 1366px;
+    height: 451px;     
+    padding-left: 40px;
+    display: flex;
+    flex-flow: row wrap;
+    gap: 50px;    
+}
+
+#zozo1aa {
+    width: 1366px;
+    height: 181px;
+    padding-left: 520px;
+    padding-top: 60px;
+}
+
+
+#zozo1a {
+    width: 213px;
+    height: 55px; 
+    border-color: rgb(56, 128, 196);
+    color: rgb(56, 128, 196);
+    padding-top: 15px;        
+}         
+
+#zozo1a:hover {
+    background-color: rgb(234, 245, 254) ;
+}         
+/* This is section eight */
+.onepoint{
+    width: 1366px;
+    height: 150px;
+    color: rgb(3, 45, 96);
+    padding-top: 40px;
+    text-align: center;
+}
+
+/* Section nine bootstrap */
+
+/* This is section ten */
+
+.point {
+    width: 1366px;
+    height: 300px;     
+    padding-left: 40px;
+    display: flex;
+    flex-flow: row wrap;
+    gap: 50px;    
+    padding-top: 20px;
+    
+}
+
+.point1 {
+    width: 1366px;
+    height: 400px;   
+    background-image: url(images/back0.png);
+    background-repeat: no-repeat;
+    background-attachment: cover;
+}
+
+/* Section eleven bootstrap */
+
+/* This is section twelve */
+
+#coco {
+    width: 270px;
+    height: 55px; 
+    border-color: rgb(56, 128, 196);
+    color: rgb(56, 128, 196);
+    padding-top: 15px;        
+}      
+
+#coco:hover {
+    background-color: rgb(245, 248, 250);
+            
+}         
+
+.coco1 {
+    width: 1366px;
+    height: 200px;     
+    padding-left: 40px;
+    display: flex;
+    flex-flow: row wrap;
+    gap: 50px;      
+}
+
+/* This is section thirteen */
+#cococo {
+    font-size: 32px; 
+    line-height: 40px; 
+    color: rgb(3, 45, 96);                                                 
+}
+
+#cococob {
+    font-size: 19px; 
+    line-height: 27px;
+    color: rgb(39, 24, 24);                                               
+}
+
+#cocobb {
+    width: 240px;
+    height: 60px; 
+    border-color: rgb(56, 128, 196);
+    color: rgb(56, 128, 196);
+    padding-top: 15px;        
+}         
+
+#cocobb:hover {
+    background-color: rgb(234, 245, 254);        
+}     
+
+/* Section forteen is button  and fifteen picture*/
+
+.folo {
+    width: 1366px;
+    height: 350px;
+    color: rgb(3, 45, 96);
+    padding-top: 100px;
+    text-align: center;   
+}
+
+.lolo {
+    width: 1366px;
+    height: 700px;
+    color: rgb(3, 45, 96);
+    padding-top: 100px;
+    text-align: center;   
+}
+
+/* This is section sixteen */
+#lolo2 {
+    font-size: 32px; 
+    line-height: 35px; 
+    color: rgb(3, 45, 96);   
+}
+
+/* This is section seventeen */
+.lolo3 {
+    width: 1366px;
+    height: 520px; 
+    display: flex;   
+    flex-flow: row wrap;
+    padding-left: 20px;
+    padding-top: 100px;
+}
+
+#xo1 {
+    width:230px;
+    height: 220px;
+}
+
+.xo1a:hover {
+    cursor: pointer;
+}
+
+#xo1b {
+    color: rgb(68, 71, 68);
+}
+
+/* sub sectio */
+#xo1c {       
+    width: 750px;
+    height: 402px;
+    display: flex;   
+    flex-flow: row wrap;
+    justify-content: space-between;
+    margin-left: 200px;
+}
+
+#xo1d {       
+    width: 235px;
+    height: 400px;
+}
+
+#xo1e {    
+    width: 200px;
+    height: 400px;
+}
+
+#xo1f {    
+    width: 200px;
+    height: 400px;
+}
+
+#xoxo {
+    text-decoration: none;
+    font-size: 13px;
+    color: rgb(74, 118, 204);
+}
+
+/* This is final stage  */
+.fin1 {
+    background-color: rgb(3, 46, 97);    
+    width: 1366px;
+    height: 77px;
+    display: flex;
+    flex-flow: row wrap; 
+    padding-top: 20px;   
+    padding-left: 25px;
+}
+
+#fin2 {    
+    width: 175px;
+    height: 53px;
+}
+
+#fin2:hover {
+    cursor: pointer;
+}
+
+#fin3 {    
+    width: 1070px;
+    height: 53px;
+    margin-left: 10px;
+}
+
+#fin3a {
+    color: white;
+    font-size: 12px; 
+}
+
+/* final2 */
+
+.dow1 {
+    background-color: rgb(3, 46, 97);    
+    width: 1366px;
+    height: 40px;
+    display: flex;
+    flex-flow: row wrap; 
+    padding-top: 0px;   
+    padding-left: 210px;
+    font-size: 12px;
+}
+
+.dow11:hover {
+    color: white;
+}
+
+#dow1a {
+    background-color: rgb(3, 46, 97);    
+    width: 50px;
+    height: 30px;
+}
+#dow1b {
+    background-color: rgb(3, 46, 97);    
+    width: 120px;
+    height: 30px;
+}
+#dow1c {
+    background-color: rgb(3, 46, 97);    
+    width: 130px;
+    height: 30px;
+}
+#dow1d {
+    background-color: rgb(3, 46, 97);    
+    width:150px;
+    height: 30px;
+}
+#dow1e {
+    background-color: rgb(3, 46, 97);    
+    width: 50px;
+    height: 30px;
+}
+#dow1f{
+    background-color: rgb(3, 46, 97);    
+    width: 70px;
+    height: 30px;
+}
+#dow1g{
+    background-color: rgb(3, 46, 97);    
+    width: 130px;
+    height: 30px;
+}
+#dow1ga{
+    background-color: rgb(3, 46, 97);    
+    width: 40px;
+    height: 30px;
+}
+#dow1h{
+    background-color: rgb(3, 46, 97);    
+    width: 150px;
+    height: 30px;
+}

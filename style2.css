@@ -1,0 +1,307 @@
+/* This is header and section one setting */
+
+@media screen and (max-width: 500px) {
+    .zo {
+        
+        background-color: black;
+        width: 400px;
+        height: 98px;
+        display: inline;
+        flex-flow: none;
+        justify-content: none;   
+    }
+
+    .zo1 {
+        
+        width: 400px;
+        height: 150px;
+        display: flex;
+        flex-flow: row wrap; 
+        padding-left: 30px; 
+        padding-top: 18px; 
+        justify-content: none;   
+    }    
+}
+
+/* This is section two setting */
+@media screen and (max-width: 500px) {
+    .thzo {
+       
+        width: 400px;
+        height: 50px;
+        color: rgb(3, 45, 96);
+        padding-top: 0px;
+        text-align: center;
+    }
+
+    .thzo1 {
+       
+        width: 400px;
+        height: 470px;     
+        padding-left: 0px;
+        display: inline;
+        flex-flow: nowrap;
+        gap: 5px;
+    }
+}
+
+/* This is section three setting */
+@media screen and (max-width: 500px) {
+    .thwo {
+        
+        width: 400px;
+        height: 210px;
+        color: rgb(3, 45, 96);
+        padding-top: 70px;
+        text-align: center;
+    }
+    
+    .thzo2 {
+       
+        width: 400px;
+        height: 590px;     
+        padding-left: 40px;
+        display: inline;  
+        flex-flow: row wrap;  
+        text-align: center;
+        gap: 15px;
+    }
+}
+
+/* This is section four setting */
+@media screen and (max-width: 500px) {
+.thxo {
+    
+    width: 400px;
+    height: 120px;
+    color: rgb(3, 45, 96);
+    padding-top: 10px;
+    text-align: center;
+}
+
+.thxo1 {
+    
+    width: 400px;
+    height: 460px;     
+    padding-left: 40px;
+    display: inline;  
+    flex-flow: row wrap;     
+    gap: 15px;
+}
+}
+
+
+
+/* This is section five setting */
+@media screen and (max-width: 500px) {
+    .thyo {
+        background-image: url(images/background\ image.jpg);
+        background-repeat: no-repeat;
+        background-attachment: cover;
+        
+        width: 400px;
+        height: 300px;
+        padding-top: 30px;   
+        padding-left: 10px;
+    }
+}
+
+/* This is section six */
+@media screen and (max-width: 500px) {
+.thto {
+   
+    width: 400px;
+    height: 350px;
+    color: rgb(3, 45, 96);
+    padding-top: 5px;
+    text-align: center;    
+    }
+
+.thto1 {
+   
+    width: 400px;
+    height: 700px;     
+    padding-top: 5px;
+    padding-left: 30px;
+    display: flex;  
+    flex-flow: row wrap;     
+    gap: 15px;
+    }
+}
+
+/* This is section seven */
+@media screen and (max-width: 500px) {
+.zozo {
+    
+    width: 400px;
+    height: 280px;
+    color: rgb(3, 45, 96);
+    padding-top: 40px;
+    text-align: center;
+}
+
+.zozo1 {
+    
+    width: 400px;
+    height: 800px;     
+    padding-left: 10px;
+    display: inline;
+    flex-flow: row wrap;
+    gap: 30px;
+    }
+
+    #zozo1aa {
+        
+        width: 400px;
+        height: 180px;
+        padding-left: 30px;
+        padding-top: 60px;
+    }
+    
+    #zozo1a {
+        width: 213px;
+        height: 55px; 
+        border-color: rgb(56, 128, 196);
+        color: rgb(56, 128, 196);
+        padding-top: 15px;        
+    }
+}
+
+  
+  
+
+/* This is section eight */
+@media screen and (max-width: 500px) {
+    .onepoint{
+       
+        width: 400px;
+        height: 150px;
+        color: rgb(3, 45, 96);
+        padding-top: 40px;
+        text-align: center;
+    }
+
+    #ongim {
+        width: 400px;
+    }
+}
+
+/* section nine is bootstrap */
+
+/* This is section Ten */
+@media screen and (max-width: 500px) {
+    .point {
+       
+        width: 400px;
+        height: 1330px;     
+        padding-left: 5px;
+        display: flex;
+        flex-flow: row wrap;
+        gap: 50px;    
+        padding-top: 20px;       
+    }
+
+    .point1 {
+        
+        width: 400px;
+        height: 400px;   
+        background-image: url(images/back0.png);
+        background-repeat: no-repeat;
+        background-attachment: cover;
+    }
+}
+/* Section eleven bootstrap */
+
+/* This is section  twelve */
+
+@media screen and (max-width: 500px) {
+
+    .coco1 {
+       
+        width: 400px;
+        height: 560px;     
+        padding-left: 10px;
+        display: inline;
+        flex-flow: row wrap;
+        gap: 50px;      
+    } 
+}
+
+/* section thirteen IS BOOTSTRAP*/
+/* section forteen is button */
+
+@media screen and (max-width: 500px) {
+    .folo {
+       
+        width: 400px;
+        height: 350px;
+        color: rgb(3, 45, 96);
+        padding-top: 100px;
+        text-align: none;   
+    }
+    .lolo {
+       
+        width:400px;
+        height: 400px;
+        color: rgb(3, 45, 96);
+        padding-top: 100px;
+        text-align: center;   
+    }
+}
+
+/* This is section sixteen is empty */
+
+/* This is section seventeen */
+@media screen and (max-width: 500px) {
+    .lolo3 {
+        
+        width: 400px;
+        height: 2000px; 
+        display: inline;   
+        flex-flow: none;
+        padding-left: 0px;
+        padding-top: 0px;
+    }
+    #xo1c {
+           
+        width: 400px;
+        height: 1300px;
+        display: inline;   
+        flex-flow: none;
+        justify-content: none;
+        margin-left: 0px;
+    }
+}
+
+/* This is final stage */
+@media screen and (max-width: 500px) {
+.fin1 {
+    
+    background-color: rgb(3, 46, 97);    
+    width: 400px;
+    height: 500px;
+    display: inline;
+    flex-flow: none; 
+    padding-top: 2px;   
+    padding-left: 0px;
+    }
+    #fin3 {
+        
+        background-color: rgb(3, 46, 97); 
+        width: 320px;
+        height: 100px;
+        margin-left: 10px;
+    }
+
+    .dow1 {
+        
+        background-color: rgb(3, 46, 97);    
+        width: 400px;
+        height: 100px;
+        display: flex;
+        flex-flow: row wrap; 
+        padding-top: 0px;   
+        padding-left: 10px;
+        font-size: 12px;
+    }
+}
